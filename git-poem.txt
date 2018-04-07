@@ -17,3 +17,5 @@ we share and we pool
 our work for the merge
 the merge. the merge.
 
+Git is awesome 
+
